@@ -23,5 +23,24 @@
     "passport": "*",
     "passport-http": "*",
     "passport-local": "*"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tapudp/LoginApp.git"
+  },
+  "keywords": [
+    "trying",
+    "to",
+    "upload",
+    "to",
+    "heroku"
+  ],
+  "bugs": {
+    "url": "https://github.com/Tapudp/LoginApp/issues"
+  },
+  "homepage": "https://github.com/Tapudp/LoginApp#readme",
+  "engines": {
+    "node": "8.9.2"
   }
 }
